@@ -1,0 +1,10 @@
+# Create calculator class
+    - Methods
+        { calc_reset : Cancels current operation and erases ANS
+        { set_operation : Selects the operation to be done
+    
+    - Attributes
+        { last_ans : float (int if no decimals)
+        { answer : float (int if no decimals)
+        { operations : list
+        { entries : list
