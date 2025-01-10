@@ -1,4 +1,11 @@
 # Create calculator class
+    - What it needs to do:
+        { take in an expression as a string
+        { split string
+        { look for parentheses
+        { solve parentheses
+        { 
+
     - Methods
         { calc_reset : Cancels current operation and erases ANS
         { set_operation : Selects the operation to be done
